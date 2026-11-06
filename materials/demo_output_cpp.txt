@@ -1,0 +1,13 @@
+AI United | Online tips | C++ demo
+QR issued and signed
+
+[PASS] 1. Success | expected=SUCCEEDED | actual=SUCCEEDED
+[PASS] 2. Bank decline | expected=DECLINED | actual=DECLINED
+[PASS] 3. Invalid amount | expected=AMOUNT_OUT_OF_RANGE | actual=AMOUNT_OUT_OF_RANGE
+[PASS] 4. First click | expected=SUCCEEDED | actual=SUCCEEDED
+[PASS] 4. Duplicate click | expected=SUCCEEDED (replay) | actual=SUCCEEDED (replay)
+[PASS] 5. Gateway timeout | expected=PENDING_UNKNOWN | actual=PENDING_UNKNOWN
+Reconciliation: SUCCEEDED
+Gateway calls: 4 for 6 requests
+Audit valid: yes
+Pool 1000 RUB: Anna=444.45 RUB, Ivan=333.33 RUB, Oleg=222.22 RUB
