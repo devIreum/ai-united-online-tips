@@ -1,0 +1,13 @@
+[PASS] 1. Successful payment
+[PASS] 2. Bank decline
+[PASS] 3. Invalid input
+[PASS] 4. Idempotency and key conflict
+[PASS] 5. Timeout and reconciliation
+[PASS] 6. RBAC
+[PASS] 7. Forbidden transition
+[PASS] 8. Guest covers fee
+[PASS] 9. Pool preserves kopecks
+[PASS] 10. Audit detects tampering
+[PASS] 11. PAN and phone are not persisted
+[PASS] 12. Payment can go to the common pool and be distributed
+RESULT: 12 passed, 0 failed
